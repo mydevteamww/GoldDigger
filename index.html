@@ -13,6 +13,23 @@
 <div id="iFrame1" style="position:absolute; left:0px; top:0px; z-index:0">
 <iframe name="iFrame1" width="1904" height="964" src="https://lutzroeder.github.io/digger/" scrolling="yes" frameborder="1"></iframe>
 </div>
+  <!-- index.html -->
+
+<!-- Your HTML content here -->
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('service-worker.js')
+        .then((registration) => {
+          console.log('Service Worker registered with scope:', registration.scope);
+        })
+        .catch((error) => {
+          console.error('Service Worker registration failed:', error);
+        });
+    });
+  }
+</script>
 </body>
 </html>
 
