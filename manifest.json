@@ -13,12 +13,12 @@
   "screenshots": [
     {
       "src": "images/screenshot1.png",
-      "sizes": "800x600", // Optional: Specify the size of the screenshot
+      "sizes": "800x600",
       "type": "image/png"
     },
     {
       "src": "images/screenshot2.png",
-      "sizes": "800x600", // Optional: Specify the size of the screenshot
+      "sizes": "800x600", //
       "type": "image/png"
     }
   ],
