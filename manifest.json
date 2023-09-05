@@ -3,13 +3,15 @@
   "description": "Bed Rock Entertainments",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gold Digger",
+  "name": "Gold - Digger Classic",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gold Digger",
+  "short_name": "Gold - Digger Classic",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": ["games"],
+  "categories": [
+    "games"
+  ],
   "screenshots": [
     {
       "src": "images/screenshot1.png",
@@ -37,6 +39,11 @@
       "src": "images/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
+      },
+    {
+      "src": "images/icon-any.png",
+      "type": "image/png",
+      "purpose": "any"
     }
   ],
   "shortcuts": [
