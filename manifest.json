@@ -39,7 +39,7 @@
       "src": "images/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
-      },
+    },
     {
       "src": "images/icon-any.png",
       "type": "image/png",
@@ -52,5 +52,8 @@
       "url": "https://lutzroeder.github.io/digger/",
       "description": "Play Gold Digger Classic"
     }
+  ],
+  "display_override": [
+    "window-controls-overlay"
   ]
 }
