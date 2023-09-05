@@ -1,44 +1,49 @@
 {
-  "background_color": "#ffffff",
-  "description": "Bed Rock Entertainments",
+  "background_color": "#000000",
+  "description": "Gold - Digger Classic",
   "dir": "ltr",
   "display": "standalone",
-  "name": "mydevteamww.github",
+  "name": "Gold - Digger Classic",
   "orientation": "any",
   "scope": "/",
-  "short_name": "mydevteamww.github",
+  "short_name": "GoldDigger",
   "start_url": "/",
-  "theme_color": "#ffffff",
+  "theme_color": "#000000",
   "categories": ["games"],
   "screenshots": [
     {
       "src": "images/screenshot1.png",
-      "sizes": "800x600",
+      "sizes": "1919x1024",
       "type": "image/png"
     },
     {
-      "src": "images/screenshot2.png",
-      "sizes": "800x600", //
-      "type": "image/png"
-    }
-  ],
   "icons": [
     {
-      "src": "images/StoreLogo.scale-400.png",
+      "src": "images/icon-48x48.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "48x48"
     },
     {
-      "src": "images/StoreLogo.scale-200.png",
+      "src": "images/icon-96x96.png",
       "type": "image/png",
-      "sizes": "412x412"
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "shortcuts": [
     {
       "name": "Gold Digger",
-      "url": "",
-      "description": ""
+      "url": "https://lutzroeder.github.io/digger/",
+      "description": "Play Gold Digger Classic"
     }
   ]
 }
