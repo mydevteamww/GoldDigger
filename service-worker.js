@@ -5,7 +5,7 @@ importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox
 const CACHE = "pwabuilder-page";
 
 // TODO: Replace the following with the correct offline fallback page (e.g., "offline.html").
-const offlineFallbackPage = "ToDo-replace-this-name.html";
+const offlineFallbackPage = "offline.html";
 
 self.addEventListener("message", (event) => {
   if (event.data && event.data.type === "SKIP_WAITING") {
