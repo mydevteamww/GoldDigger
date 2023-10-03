@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Bed Rock Entertainments",
+  "description": "Game Snacks",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gold - Digger Classic",
+  "name": "Mr:Gold Digger",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gold - Digger Classic",
+  "short_name": "Mr:Gold Digger",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Gold Digger",
+      "name": "Mr:Gold Digger",
       "url": "https://lutzroeder.github.io/digger/",
-      "description": "Play Gold Digger Classic"
+      "description": "Play Mr:Gold Digger"
     }
   ],
   "display_override": [
