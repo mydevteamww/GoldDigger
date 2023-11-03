@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Game Snacks",
+  "description": "Echo Logic Interactive",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Mr:Gold Digger",
+  "name": "Gold:Digger",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Mr:Gold Digger",
+  "short_name": "Gold:Digger",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Mr:Gold Digger",
+      "name": "Gold:Digger",
       "url": "https://lutzroeder.github.io/digger/",
-      "description": "Play Mr:Gold Digger"
+      "description": "Play Gold:Digger"
     }
   ],
   "display_override": [
